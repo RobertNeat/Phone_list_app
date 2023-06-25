@@ -42,11 +42,14 @@ To run application:
 
 #Screenshots:
 1. Application showing in app tray with specific icon:
-<img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/app_tray.png" width="200/>
-2. First application launch (by default the few example records are acreated to show user how to use application):
-<img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/after_launch.png" width="200/>
-3. Adding new phone:
 
+<img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/app_tray.png" width="200/>
+
+2. First application launch (by default the few example records are acreated to show user how to use application):
+
+<img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/after_launch.png" width="200/>
+
+3. Adding new phone:
 
 | <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/after_launch.png" width="200/>
 | <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/add%20activity.png" width="200/>
