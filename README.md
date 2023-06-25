@@ -62,6 +62,30 @@ To run application:
 </table>
         
 4. Deleting phone (of all phones):
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/delete_on_swipe.png" width="200/>
+        </td>
+                
+        <td>
+            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/after_swipe.png" width="200/>
+        </td>        
+    </tr>
+</table>
+
 
 5. Modify the existing phone:
-
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/editadd%20activity.png" width="200/>
+        </td>
+        <td>
+            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/implicit_intent_samsung.png" width="200/>
+        </td>
+        <td>
+            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/list_edited.png" width="200/>
+        </td>
+    </tr>
+</table>
