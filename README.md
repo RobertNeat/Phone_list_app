@@ -48,9 +48,9 @@ To run application:
 3. Adding new phone:
 
 
-|<img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/after_launch.png" width="200/>
-|<img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/add%20activity.png" width="200/>
-|<img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/list_added.png" width="200/>|
+| <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/after_launch.png" width="200/>
+| <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/add%20activity.png" width="200/>
+| <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/list_added.png" width="200/> |
 
         
 4. Deleting phone (of all phones):
