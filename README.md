@@ -42,11 +42,51 @@ To run application:
 
 #Screenshots:
 1. Application showing in app tray with specific icon:
-
-<img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/app_tray.png" width="200/>
-
+<img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/app_tray.png" width="200"/>
 2. First application launch (by default the few example records are acreated to show user how to use application):
-
-<img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/after_launch.png" width="200/>
-
+<img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/after_launch.png" width="200"/>
 3. Adding new phone:
+
+
+<table>
+    <tr>
+        <td>    
+            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/after_launch.png" width="200"/>
+        </td>   
+        <td>
+            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/add%20activity.png" width="200"/>
+        </td>   
+        <td>
+            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/list_added.png" width="200"/> 
+        </td>
+    </tr>
+</table>
+        
+4. Deleting phone (of all phones):
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/delete_on_swipe.png" width="200"/>
+        </td>
+        <td>
+            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/after_swipe.png" width="200"/>
+        </td>  
+    </td>
+</table>
+
+
+5. Modify the existing phone:
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/editadd%20activity.png" width="200"/>
+        </td>      
+        <td>
+            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/implicit_intent_samsung.png" width="200"/>
+        </td>
+        <td>
+            <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/list_edited.png" width="200"/>
+        </td>   
+    </tr>
+</table>
+
