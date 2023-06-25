@@ -40,7 +40,7 @@ To run application:
 3. If there is error with versions (pre Electric Eel) you should change version of the IDE in one of the gradle files and rebuild
 4. Build application and run (either on VM Android or physical device, the development device is Samsung A53)
 
-#Screenshots:
+# Screenshots:
 1. Application showing in app tray with specific icon:
 <img src="https://github.com/RobertNeat/Phone_list_app/blob/main/pistures_res/app_tray.png" width="200"/>
 2. First application launch (by default the few example records are acreated to show user how to use application):
