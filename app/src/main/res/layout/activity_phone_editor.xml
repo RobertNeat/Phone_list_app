@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:shrinkColumns="*"
+    android:stretchColumns="2">
+
+    <TableRow
+        android:id="@+id/row_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/ManufacturerTV"
+            android:text="Manufacturer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:id="@+id/ManufacturerET"
+            android:text=""
+            android:layout_span="2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="Samsung"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/ModelTV"
+            android:text="Model"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:id="@+id/ModelET"
+            android:text=""
+            android:layout_span="2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="A 53"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/AndroidVersionTV"
+            android:text="Android version"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:id="@+id/AndroidVersionET"
+            android:text=""
+            android:layout_span="2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="numberSigned"
+            android:digits="1234567890"
+            android:hint="13"/><!--android:digits="1234567890" - pozwala jedynie na wpisanie cyfr 0-9-->
+    </TableRow>
+
+
+    <TableRow
+        android:id="@+id/row_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/WebSiteTV"
+            android:text="Web site"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:id="@+id/WebSiteET"
+            android:text=""
+            android:layout_span="2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="www.samsung.com/model"/>
+    </TableRow>
+
+
+
+    <TableRow
+        android:id="@+id/row_5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/WebsiteBTN"
+            android:text="Web Site"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"/>
+        <Button
+            android:id="@+id/CancelBTN"
+            android:text="Cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"/>
+        <Button
+            android:id="@+id/SaveBTN"
+            android:text="Save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"/>
+
+
+    </TableRow>
+</TableLayout>
